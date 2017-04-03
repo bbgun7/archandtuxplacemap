@@ -14,10 +14,10 @@ https://github.com/plasticboy/placebot-linux-target/
 
 
 Vim logo:
-https://www.reddit.com/r/place#x=174&y=743
+https://www.reddit.com/place?webview=true#x=174&y=743
 
 Tux:
 https://www.reddit.com/place?webview=true&template=http://i.imgur.com/GSgXuZj.png&ox=838&oy=415#x=865&y=444
 
 Arch linux:
-https://www.reddit.com/r/place#x=610&y=127
+https://www.reddit.com/place?webview=true#x=610&y=127
